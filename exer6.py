@@ -5,4 +5,4 @@ x = 1
 while x < num_int + 1:
     prod_int = prod_int * x
     x = x + 1
-    print (prod_int)
+print (prod_int)
